@@ -1,0 +1,40 @@
+section{
+    background-color:#24353F;
+}
+section .card-body{
+    background-color:#24353F;
+    color: white;
+}    
+section .card-body form input{
+    background-color:#24353F;
+    color: white !important;
+
+}
+section .card-body form input:hover{
+    background-color: transparent !important;
+    
+}
+section .card-body form input:focus{
+    background-color: transparent !important;
+}
+
+section .card-body form input::placeholder{
+    color: white;
+}
+button{
+    background-color:#24353F !important;
+    border: 1px solid #17A2B8 !important;
+    color: #17A2B8 !important;
+   
+}
+.card{
+    border: none !important;
+    box-shadow: black 10px 10px 20px;
+}
+button:hover{
+    background-color: #17A2B8 !important;
+    color: white !important;
+}
+a:hover{
+    text-decoration:underline !important;
+}
